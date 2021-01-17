@@ -6,7 +6,7 @@ Project 22(HTML, CSS, JavaScript) from 50 small projects
 
 Drawing App using HTML and Canvas Element, CSS and Vanilla JavaScript.
 
-Available at => [CodePen](https://codepen.io/geritooo123/full/OJRwgbr)
+Available at => [CodePen](https://codepen.io/geritooo123/full/BaLMyYq)
 
 # Demo
 
