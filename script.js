@@ -12,11 +12,11 @@ const ctx = canvas.getContext('2d');
 let size = 2;
 let isPressed = false;
 let isErasing = false;
-let color = 'black';
+let color = '#000';
+let lastChanged = '#000';
+
 let x;
 let y;
-
-let lastChanged;
 
 eraseEl.addEventListener('click', () => {
   isErasing = true;
